@@ -1,0 +1,7 @@
+spring:
+  profiles:
+    default: dev
+  aop:
+    proxy-target-class: true
+server:
+  port: 8080
